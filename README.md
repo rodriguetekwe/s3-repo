@@ -1,3 +1,6 @@
 # s3-repo
 
-still a practices
+still a practice
+
+## local folder 
+1. readme has been updated 
